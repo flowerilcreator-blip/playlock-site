@@ -6,3 +6,7 @@ PlayLock(iPhone 向けペアレンタルコントロールアプリ)のプライ
 - https://flowerilcreator-blip.github.io/playlock-site/terms.html
 - https://flowerilcreator-blip.github.io/playlock-site/tokusho.html
 - https://flowerilcreator-blip.github.io/playlock-site/support.html
+
+## note/
+
+note の記事で使う図(PNG)。正本は FamilyGuard/docs/assets/note/。
