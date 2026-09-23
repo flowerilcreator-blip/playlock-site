@@ -14,7 +14,7 @@
 			<key>PayloadUUID</key>
 			<string>245A0BB9-8C05-5A63-A9BA-4F4C3062DC97</string>
 			<key>PayloadDisplayName</key>
-			<string>ブラウザゲームサイトの遮断</string>
+			<string>Web Filter</string>
 			<key>PayloadDescription</key>
 			<string>ブラウザから遊べるゲームサイト 51 件を遮断します(Poki、CrazyGames、Y8、Coolmath Games、Yahoo!モバゲー、Mobage ほか)。学習に使うサイトは含めていません。</string>
 			<key>PayloadOrganization</key>
@@ -261,7 +261,7 @@
 	<key>PayloadUUID</key>
 	<string>BEA4173C-763B-5B35-961F-BAC2AF9C0E49</string>
 	<key>PayloadDisplayName</key>
-	<string>ブラウザゲームサイトの遮断</string>
+	<string>Web Filter</string>
 	<key>PayloadDescription</key>
 	<string>ブラウザから遊べるゲームサイト 51 件を遮断します(Poki、CrazyGames、Y8、Coolmath Games、Yahoo!モバゲー、Mobage ほか)。学習に使うサイトは含めていません。</string>
 	<key>PayloadOrganization</key>
