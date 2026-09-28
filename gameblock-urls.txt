@@ -194,14 +194,6 @@ https://kizi.com
 http://kizi.com
 https://www.kizi.com
 http://www.kizi.com
-https://sketchfab.com
-http://sketchfab.com
-https://www.sketchfab.com
-http://www.sketchfab.com
-https://namu.wiki
-http://namu.wiki
-https://www.namu.wiki
-http://www.namu.wiki
 https://www.google.com/fbx
 http://www.google.com/fbx
 https://google.com/fbx

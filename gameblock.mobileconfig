@@ -16,7 +16,7 @@
 			<key>PayloadDisplayName</key>
 			<string>Web Filter</string>
 			<key>PayloadDescription</key>
-			<string>ブラウザから遊べるゲームサイト 51 件を遮断します(Poki、CrazyGames、Y8、Coolmath Games、Yahoo!モバゲー、Mobage ほか)。学習に使うサイトは含めていません。</string>
+			<string>ブラウザから遊べるゲームサイト 49 件を遮断します(Poki、CrazyGames、Y8、Coolmath Games、Yahoo!モバゲー、Mobage ほか)。学習に使うサイトは含めていません。</string>
 			<key>PayloadOrganization</key>
 			<string>PlayLock(保護者からの提供)</string>
 			<key>FilterType</key>
@@ -227,14 +227,6 @@
 				<string>http://kizi.com</string>
 				<string>https://www.kizi.com</string>
 				<string>http://www.kizi.com</string>
-				<string>https://sketchfab.com</string>
-				<string>http://sketchfab.com</string>
-				<string>https://www.sketchfab.com</string>
-				<string>http://www.sketchfab.com</string>
-				<string>https://namu.wiki</string>
-				<string>http://namu.wiki</string>
-				<string>https://www.namu.wiki</string>
-				<string>http://www.namu.wiki</string>
 				<string>https://www.google.com/fbx</string>
 				<string>http://www.google.com/fbx</string>
 				<string>https://google.com/fbx</string>
@@ -263,7 +255,7 @@
 	<key>PayloadDisplayName</key>
 	<string>Web Filter</string>
 	<key>PayloadDescription</key>
-	<string>ブラウザから遊べるゲームサイト 51 件を遮断します(Poki、CrazyGames、Y8、Coolmath Games、Yahoo!モバゲー、Mobage ほか)。学習に使うサイトは含めていません。</string>
+	<string>ブラウザから遊べるゲームサイト 49 件を遮断します(Poki、CrazyGames、Y8、Coolmath Games、Yahoo!モバゲー、Mobage ほか)。学習に使うサイトは含めていません。</string>
 	<key>PayloadOrganization</key>
 	<string>PlayLock(保護者からの提供)</string>
 	<key>PayloadRemovalDisallowed</key>
