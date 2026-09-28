@@ -103,10 +103,6 @@
 				<string>http://friv.com</string>
 				<string>https://www.friv.com</string>
 				<string>http://www.friv.com</string>
-				<string>https://kizi.com</string>
-				<string>http://kizi.com</string>
-				<string>https://www.kizi.com</string>
-				<string>http://www.kizi.com</string>
 				<string>https://silvergames.com</string>
 				<string>http://silvergames.com</string>
 				<string>https://www.silvergames.com</string>
@@ -147,18 +143,6 @@
 				<string>http://now.gg</string>
 				<string>https://www.now.gg</string>
 				<string>http://www.now.gg</string>
-				<string>https://geforcenow.com</string>
-				<string>http://geforcenow.com</string>
-				<string>https://www.geforcenow.com</string>
-				<string>http://www.geforcenow.com</string>
-				<string>https://xbox.com</string>
-				<string>http://xbox.com</string>
-				<string>https://www.xbox.com</string>
-				<string>http://www.xbox.com</string>
-				<string>https://luna.amazon.com</string>
-				<string>http://luna.amazon.com</string>
-				<string>https://www.luna.amazon.com</string>
-				<string>http://www.luna.amazon.com</string>
 				<string>https://crazygamesonline.com</string>
 				<string>http://crazygamesonline.com</string>
 				<string>https://www.crazygamesonline.com</string>
@@ -175,6 +159,26 @@
 				<string>http://yandex.ru</string>
 				<string>https://www.yandex.ru</string>
 				<string>http://www.yandex.ru</string>
+				<string>https://ya.ru</string>
+				<string>http://ya.ru</string>
+				<string>https://www.ya.ru</string>
+				<string>http://www.ya.ru</string>
+				<string>https://yastatic.net</string>
+				<string>http://yastatic.net</string>
+				<string>https://www.yastatic.net</string>
+				<string>http://www.yastatic.net</string>
+				<string>https://kbhgames.com</string>
+				<string>http://kbhgames.com</string>
+				<string>https://www.kbhgames.com</string>
+				<string>http://www.kbhgames.com</string>
+				<string>https://gamaverse.com</string>
+				<string>http://gamaverse.com</string>
+				<string>https://www.gamaverse.com</string>
+				<string>http://www.gamaverse.com</string>
+				<string>https://1v1.lol</string>
+				<string>http://1v1.lol</string>
+				<string>https://www.1v1.lol</string>
+				<string>http://www.1v1.lol</string>
 				<string>https://yandex.uz</string>
 				<string>http://yandex.uz</string>
 				<string>https://www.yandex.uz</string>
@@ -207,26 +211,22 @@
 				<string>http://yandex.co.il</string>
 				<string>https://www.yandex.co.il</string>
 				<string>http://www.yandex.co.il</string>
-				<string>https://ya.ru</string>
-				<string>http://ya.ru</string>
-				<string>https://www.ya.ru</string>
-				<string>http://www.ya.ru</string>
-				<string>https://yastatic.net</string>
-				<string>http://yastatic.net</string>
-				<string>https://www.yastatic.net</string>
-				<string>http://www.yastatic.net</string>
-				<string>https://kbhgames.com</string>
-				<string>http://kbhgames.com</string>
-				<string>https://www.kbhgames.com</string>
-				<string>http://www.kbhgames.com</string>
-				<string>https://gamaverse.com</string>
-				<string>http://gamaverse.com</string>
-				<string>https://www.gamaverse.com</string>
-				<string>http://www.gamaverse.com</string>
-				<string>https://1v1.lol</string>
-				<string>http://1v1.lol</string>
-				<string>https://www.1v1.lol</string>
-				<string>http://www.1v1.lol</string>
+				<string>https://geforcenow.com</string>
+				<string>http://geforcenow.com</string>
+				<string>https://www.geforcenow.com</string>
+				<string>http://www.geforcenow.com</string>
+				<string>https://xbox.com</string>
+				<string>http://xbox.com</string>
+				<string>https://www.xbox.com</string>
+				<string>http://www.xbox.com</string>
+				<string>https://luna.amazon.com</string>
+				<string>http://luna.amazon.com</string>
+				<string>https://www.luna.amazon.com</string>
+				<string>http://www.luna.amazon.com</string>
+				<string>https://kizi.com</string>
+				<string>http://kizi.com</string>
+				<string>https://www.kizi.com</string>
+				<string>http://www.kizi.com</string>
 				<string>https://sketchfab.com</string>
 				<string>http://sketchfab.com</string>
 				<string>https://www.sketchfab.com</string>
